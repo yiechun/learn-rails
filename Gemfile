@@ -31,7 +31,6 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 # learn-rails
-gem 'compass-rails', '~>2.0.alpha.0'
 gem 'figaro'
 gem 'gibbon'
 gem 'google_drive'
